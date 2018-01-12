@@ -1,0 +1,29 @@
+.box {
+	position: relative;
+}
+
+h1 {
+	background-color: #4aaaa5;
+}
+
+button {
+	background-color: #4aaaa5;
+}
+
+body {
+	background-color: #777;
+}
+
+#container {
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;
+}
+
+#content {
+	width: 650px;
+}
+
+#sidebar {
+	width: 270px;
+}
